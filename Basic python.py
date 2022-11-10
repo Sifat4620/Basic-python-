@@ -16,6 +16,16 @@ print("Your input system program")
 a=input("Enter A number:")
 b=input("Enter B number:")
  
+"""list"""
+data=[1,2,2,2,"Ai"]
+print(data[-1])
+print(type(data))
+
+
+"""tuple"""
+data2=(1,3,2,4,"Ai")
+print(type(data2))
+
 
 
 
